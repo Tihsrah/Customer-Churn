@@ -18,7 +18,7 @@ SRS, Api - Harshit
 
 LIVE LINK : https://huggingface.co/spaces/Tihsrah/Customer_Churn
 
-SRS : https://upesstd-my.sharepoint.com/:w:/g/personal/500082340_stu_upes_ac_in/ERsLYhoT1dNBhKmVepi5Wp8B321L0tnrxqkQm4HSZHEI_A?e=2KX7Mb
+SRS : https://upesstd-my.sharepoint.com/:w:/g/personal/500082340_stu_upes_ac_in/ERsLYhoT1dNBhKmVepi5Wp8B321L0tnrxqkQm4HSZHEI_A?e=2KX7Mb <br>
 PPT : 
 
 Drive : https://drive.google.com/drive/folders/1Iu91y14Roxi4ryzgF0qbmpaEB-PcAsxa?usp=sharing

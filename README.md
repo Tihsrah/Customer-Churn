@@ -23,4 +23,4 @@ PPT : https://docs.google.com/presentation/d/1NxUqZAuVs0bQsCGkC_Rf_W-HFQm2B5CL5t
 
 Drive : https://drive.google.com/drive/folders/1Iu91y14Roxi4ryzgF0qbmpaEB-PcAsxa?usp=sharing
 
-Dataset : 
+Dataset : https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset

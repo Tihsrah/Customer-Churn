@@ -19,7 +19,7 @@ SRS, Live-Link - Harshit <br>
 LIVE LINK : https://huggingface.co/spaces/Tihsrah/Customer_Churn
 
 SRS : https://upesstd-my.sharepoint.com/:w:/g/personal/500082340_stu_upes_ac_in/ERsLYhoT1dNBhKmVepi5Wp8B321L0tnrxqkQm4HSZHEI_A?e=2KX7Mb <br>
-PPT : 
+PPT : https://docs.google.com/presentation/d/1NxUqZAuVs0bQsCGkC_Rf_W-HFQm2B5CL5tVuM4Ety2E/edit?usp=sharing
 
 Drive : https://drive.google.com/drive/folders/1Iu91y14Roxi4ryzgF0qbmpaEB-PcAsxa?usp=sharing
 

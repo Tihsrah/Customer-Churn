@@ -1,20 +1,20 @@
 # Customer-Churn
 Celebal project summer internship project 2
 
-Group Members :
-Jagadeesh Pakalapati - jagadeeshpakalapati@gmail.com
-Manish Kumar - mk8051manish@gmail.com
-Walzade Sakshi Rajendra - sakshiwalzade16@gmail.com
-Yadhuwanshi Rahul raaz - yadhuwanshirahulraaz@gmail.com
-Khushi Bisht - khushibisht12112002@gmail.com
-Harshit - harshlf4@gmail.com
+Group Members : <br>
+Jagadeesh Pakalapati - jagadeeshpakalapati@gmail.com <br>
+Manish Kumar - mk8051manish@gmail.com <br>
+Walzade Sakshi Rajendra - sakshiwalzade16@gmail.com <br>
+Yadhuwanshi Rahul raaz - yadhuwanshirahulraaz@gmail.com <br>
+Khushi Bisht - khushibisht12112002@gmail.com <br>
+Harshit - harshlf4@gmail.com <br>
 
-
-Contributions :
-Model building, App development - Manish
-EDA - Rahul
-PPT- Sakshi
-SRS, Api - Harshit
+<br>
+Contributions : <br>
+Model building, App development - Manish <br>
+EDA - Rahul <br>
+PPT- Sakshi <br>
+SRS, Api - Harshit <br>
 
 LIVE LINK : https://huggingface.co/spaces/Tihsrah/Customer_Churn
 

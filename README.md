@@ -14,8 +14,8 @@ Contributions : <br>
 Model building, App development - Manish <br>
 EDA - Rahul <br>
 PPT- Sakshi <br>
-SRS, Api - Harshit <br>
-
+SRS, Live-Link - Harshit <br>
+<br>
 LIVE LINK : https://huggingface.co/spaces/Tihsrah/Customer_Churn
 
 SRS : https://upesstd-my.sharepoint.com/:w:/g/personal/500082340_stu_upes_ac_in/ERsLYhoT1dNBhKmVepi5Wp8B321L0tnrxqkQm4HSZHEI_A?e=2KX7Mb <br>
